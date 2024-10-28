@@ -18,6 +18,11 @@ A space for collaborative learning and curiosity-driven exploration during lunch
 
 <br>
 
+## ⭐️ 공유 규칙
+- 매주 스터디 후 레포지토리를 최신화합니다.
+- 서로의 지식과 궁금증을 존중하고, 활발하게 토론에 참여합니다.
+- 더 나은 스터디를 위해 리뷰와 피드백을 환영합니다!
+
 
 ## ☀️ 스터디 멤버
 <table>
